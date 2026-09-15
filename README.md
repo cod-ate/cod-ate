@@ -105,8 +105,8 @@ An AI-powered learning platform designed to generate structured study material a
 
 ## 🏆 Achievements
 
-* 🥇 Qualified for the final round of **CaseXplore, E-Summit 2026**
-* 🏅 Developed an automated solar-panel cleaning solution as part of the CaseXplore team
+* 🥇 Qualified for the final round of **CaseXplore, E-Summit 2026** 
+      Developed an automated solar-panel cleaning solution as part of the CaseXplore team
 * ⭐ Received an **'O' Grade in Data Structures & Algorithms**
 * ⭐ Received an **'O' Grade in Algorithm Analysis & Design-1**
 
