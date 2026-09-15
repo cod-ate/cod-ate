@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.png" width="100%">
+  <img src="./My Pic.png" width="100%">
 </p>
 
 <h1 align="center">Hey! 👋 I'm Utsav Mathur</h1>
