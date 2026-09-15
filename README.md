@@ -1,52 +1,46 @@
-<p align="center">
-  <img src="./my-banner.png" width="100%", height="25%">
-</p>
+# Hey! 👋 I'm Utsav Mathur
 
-                 👋 Hey! I'm Utsav Mathur
+### Java Backend Developer | Spring Boot | REST APIs | AI
 
-       Computer Science Undergraduate
-       Java & Spring Boot Developer
-       AI & Backend Enthusiast
+I'm a Computer Science undergraduate who enjoys building backend systems,
+full-stack applications, and AI-powered solutions.
 
+I mainly work with Java and Spring Boot, and I'm currently exploring
+scalable backend architecture, cloud technologies, and modern development tools.
 
-       🛠️ Tech Stack
+---
 
-       ☕ Java       🍃 Spring Boot
-       🐍 Python     🗄️ MySQL
-       🔴 Redis      🔐 Spring Security
-       🔗 REST APIs  🐙 Git/GitHub
+## 👨‍💻 About Me
 
+🎓 B.Tech Computer Science & Engineering Student
 
-       🚀 Featured Projects
+☕ Java & Spring Boot enthusiast
 
-       🏙️ Civic Complaint Portal
-       🧠 MindWell
-       📚 Study Assistant
+🔧 Building REST APIs and full-stack applications
 
+🤖 Exploring AI & LLM-powered applications
 
-       🎯 Currently Learning
+🗄️ Working with MySQL, JPA & Redis
 
-       System Design
-       Docker & Kubernetes
-       AWS
-       Kafka
-       AI & LLM Integration
+🔐 Learning secure backend development with Spring Security & JWT
 
+🧠 Strong interest in DSA, backend engineering and system design
 
-       🏆 Achievements
+---
 
-       CaseXplore Finalist
-       O Grade — DSA
-       O Grade — AAD
+## 🚀 What I'm Currently Learning
 
-
-       📜 Certifications
-
-       Fortinet
-       Infosys
-
-
-       📊 GitHub Stats
-
-
-       🤝 Let's Connect
+```text
+Java & Spring Boot
+        ↓
+REST APIs & Backend Architecture
+        ↓
+Database & Caching
+        ↓
+Spring Security & JWT
+        ↓
+Docker & Cloud
+        ↓
+Kafka & Distributed Systems
+        ↓
+Scalable Backend Systems
