@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./my-banner.png" width="50%", height="20%">
+  <img src="./my-banner.png" width="100%", height="25%">
 </p>
 
                  👋 Hey! I'm Utsav Mathur
