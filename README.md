@@ -37,7 +37,7 @@ I enjoy building practical applications with **Java, Spring Boot, RESTful APIs, 
 
 ### Tools & Platforms
 
-`Git` `GitHub` `Codex`
+`Git` `GitHub` `Codex` `Docker` `Postman`
 
 ### Core Concepts
 
@@ -114,15 +114,11 @@ An AI-powered learning platform designed to generate structured study material a
 
 ## 📜 Certifications
 
-* **Communicating to Succeed** — Infosys Springboard
-* **Fortinet Certified Associate in Cybersecurity** — NSE-1 / NSE-2 / NSE-3
-* **Fortinet Certified Professional in Cybersecurity** — NSE-4 / NSE-5
+* **Communicating to Succeed** - Infosys Springboard
+* **Fortinet Certified Associate in Cybersecurity** - NSE-1 / NSE-2 / NSE-3
+* **Fortinet Certified Professional in Cybersecurity** - NSE-4 / NSE-5
 
 🔗 [View Certifications](https://github.com/cod-ate/Certifications)
-
----
-
-## 📊 GitHub Stats
 
 ---
 
