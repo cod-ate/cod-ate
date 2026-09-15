@@ -2,14 +2,6 @@
   <img src="./My Pic.png" width="10%">
 </p>
 
-       ┌─────────────────────────────────────────┐
-       │                                         │
-       │       YOUR PERSONAL BANNER              │
-       │       UTSAV MATHUR                      │
-       │       JAVA BACKEND DEVELOPER            │
-       │                                         │
-       └─────────────────────────────────────────┘
-
                  👋 Hey! I'm Utsav Mathur
 
        Computer Science Undergraduate
